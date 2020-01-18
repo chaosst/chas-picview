@@ -70,7 +70,7 @@ escClose:true,
 <!-- Directive mode initialization -->
 <img 
     src="~@/assets/logo.png" 
-    v-pic-view="{group:'set-2',describe:'group set-2'}" 
+    v-picview="{group:'set-2',describe:'group set-2'}" 
 />
 ```
 
