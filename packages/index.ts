@@ -62,9 +62,9 @@ const install:any = function (Vue:any, options:picOption):void {
     })
 }
 
-if (typeof window !== 'undefined' && window.Vue) {
-    install(window.Vue)
-}
+// if (typeof window !== 'undefined' && window.Vue) {
+//     install(window.Vue)
+// }
 
 export default {
     install
