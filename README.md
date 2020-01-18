@@ -1,4 +1,4 @@
-# v-picview ![version](https://travis-ci.com/chaosst/v-picview.svg?branch=master) ![vue](https://img.shields.io/badge/vue-%20v2.5.21%20-green.svg) 
+# v-picview ![GitHub package.json version](https://img.shields.io/github/package-json/v/chaosst/v-picview) [![Build Status](https://travis-ci.org/chaosst/v-picview.svg?branch=master)](https://travis-ci.org/chaosst/v-picview) ![vue](https://img.shields.io/badge/vue-%20v2.5.21%20-green.svg) 
 
 [v-picview](https://github.com/chaosst/v-picview) is a component of picture viewer.
 
