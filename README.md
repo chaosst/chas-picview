@@ -1,4 +1,4 @@
-# v-picview ![version](https://img.shields.io/badge/version-%20v1.0.15%20-green.svg) ![vue](https://img.shields.io/badge/vue-%20v2.5.21%20-green.svg) 
+# v-picview ![version](https://travis-ci.com/chaosst/v-picview.svg?branch=master) ![vue](https://img.shields.io/badge/vue-%20v2.5.21%20-green.svg) 
 
 [v-picview](https://github.com/chaosst/v-picview) is a component of picture viewer.
 
@@ -12,7 +12,6 @@ npm i v-picview -S
 ```
 
 ```js
-/* ignore this if you include vue-scroller.js by <script> tag from a cdn, such as unpkg */
 import Vue from 'vue'
 import 'v-picview/lib/v-picview.css'
 import vPicview from 'v-picview'
@@ -78,7 +77,7 @@ escClose:true,
 
 ## API
 
-#### v-pic-view directive attributes:
+#### v-picview directive attributes:
 
 | Attr. Name | Description | Required | Default Value |
 |-----|-----|-----|-----|
