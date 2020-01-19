@@ -119,6 +119,7 @@ escClose:true,
 | onDragEnd | 图片放大后拖动结束时的回调函数 | N | - |
 
 #### vPicview vm instance methods:
+window.$picview可直接获取vPicview的实例
 
 - `download()` 下载查看器当前显示的图片
 - `close()` 关闭查看器
