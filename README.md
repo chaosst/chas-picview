@@ -18,7 +18,7 @@ import vPicview from 'v-picview'
 import { vImage } from 'v-picview'
 Vue.component(vImage)
 Vue.use(vPicview,{
-escClose:true,
+    escClose:true,
     arrowShortcuts:true,
     zoom:true,
     footer:true,
